@@ -19,7 +19,7 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Contact Us",
-    lines: ["Phone: +91 98765 43210", "Plus Code: XR2M+FW Ranchi"],
+    lines: ["Phone: +91 70336 26560", "Plus Code: XR2M+FW Ranchi"],
   },
 ];
 
@@ -44,7 +44,7 @@ const ContactSection = () => {
           {/* Map */}
           <div className="relative rounded-2xl overflow-hidden border border-border/50 h-[400px] lg:h-full min-h-[400px]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3663.2176834477583!2d85.2950607!3d23.344547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f4e1e0bcd0e5c5%3A0x34bcd7df9d99f5e8!2sRanchi%20Ring%20Road%2C%20Jharkhand!5e0!3m2!1sen!2sin!4v1699876543210!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3663.8945!2d85.2318013!3d23.3812488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1sSuman%20Automobiles!2s23.3812488,85.2343816!5e0!3m2!1sen!2sin!4v1702569600000"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -81,14 +81,14 @@ const ContactSection = () => {
             {/* CTA Buttons */}
             <div className="flex flex-wrap gap-4 pt-4">
               <Button variant="hero" size="lg" className="flex-1" asChild>
-                <a href="tel:+919876543210">
+                <a href="tel:+917033626560">
                   <Phone className="w-5 h-5" />
                   Call Now
                 </a>
               </Button>
               <Button variant="accent" size="lg" className="flex-1" asChild>
                 <a
-                  href="https://maps.google.com/?q=Hiramani+Fuels+Ranchi+Ring+Road"
+                  href="https://maps.app.goo.gl/GCjNVvpZXLKvbSci8"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -99,7 +99,7 @@ const ContactSection = () => {
             </div>
             <Button variant="outline" size="lg" className="w-full" asChild>
               <a
-                href="https://wa.me/919876543210?text=Hi, I'm interested in your auto parts."
+                href="https://wa.me/917033626560?text=Hi, I'm interested in your auto parts."
                 target="_blank"
                 rel="noopener noreferrer"
               >

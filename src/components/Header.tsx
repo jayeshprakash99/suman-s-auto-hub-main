@@ -64,7 +64,7 @@ const Header = () => {
               className="hidden sm:flex"
               asChild
             >
-              <a href="tel:+919876543210">
+              <a href="tel:+917033626560">
                 <Phone className="w-4 h-4" />
                 <span className="hidden md:inline">Call Now</span>
               </a>
@@ -77,7 +77,7 @@ const Header = () => {
               asChild
             >
               <a
-                href="https://maps.google.com/?q=Hiramani+Fuels+Ranchi+Ring+Road"
+                href="https://maps.app.goo.gl/GCjNVvpZXLKvbSci8"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -119,14 +119,14 @@ const Header = () => {
             ))}
             <div className="flex gap-3 mt-4 pt-4">
               <Button variant="accent" className="flex-1" asChild>
-                <a href="tel:+919876543210">
+                <a href="tel:+917033626560">
                   <Phone className="w-4 h-4" />
                   Call Now
                 </a>
               </Button>
               <Button variant="outline" className="flex-1" asChild>
                 <a
-                  href="https://maps.google.com/?q=Hiramani+Fuels+Ranchi+Ring+Road"
+                  href="https://maps.app.goo.gl/GCjNVvpZXLKvbSci8"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

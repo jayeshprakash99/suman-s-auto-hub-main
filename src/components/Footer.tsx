@@ -16,7 +16,7 @@ const Footer = () => {
               <p className="text-sm text-muted-foreground mt-1">सुमन ऑटोमोबिल्स</p>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Your trusted partner for quality motor parts, engine oils, and automobile accessories in Ranchi.
+              Your trusted partner for quality truck motor parts, engine oils, and automobile accessories in Ranchi.
             </p>
           </div>
 
@@ -48,7 +48,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-primary flex-shrink-0" />
-                <span className="text-muted-foreground">+91 98765 43210</span>
+                <span className="text-muted-foreground">+91 70336 26560</span>
               </div>
               <div className="flex items-center gap-3">
                 <Clock className="w-4 h-4 text-primary flex-shrink-0" />
@@ -62,9 +62,19 @@ const Footer = () => {
         <div className="border-t border-border pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-muted-foreground text-sm">
             © {currentYear} Suman Automobiles. All rights reserved.
+            <br />
+            Designed by{" "}
+            <a
+              href="https://webytesolutions.in"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:text-primary/80 transition-colors"
+            >
+              webyte solutions
+            </a>
           </p>
           <p className="text-muted-foreground text-sm">
-            Motor Parts • Engine Oil • Automobile Spares
+            Truck motor parts • Engine Oil • Automobile Spares
           </p>
         </div>
       </div>

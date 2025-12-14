@@ -2,13 +2,13 @@ import { Star, Quote } from "lucide-react";
 
 const reviews = [
   {
-    name: "Jayesh Prakash",
-    review: "One-stop solution for all your motor parts and engine oil. Excellent service and genuine products!",
+    name: "Raj Prakash",
+    review: "One-stop solution for all your truck motor parts and engine oil. Excellent service and genuine products!",
     rating: 5,
   },
   {
-    name: "Archana Agrawal",
-    review: "All types of motor parts available, good range. The staff is very helpful and knowledgeable.",
+    name: "Archana Kundu",
+    review: "All types of truck motor parts available, good range. The staff is very helpful and knowledgeable.",
     rating: 5,
   },
   {

@@ -6,7 +6,7 @@ import batteriesImg from "@/assets/batteries.jpg";
 
 const products = [
   {
-    title: "Motor Parts",
+    title: "truck motor parts",
     description: "High-quality engine components, gears, and mechanical parts for all vehicle types.",
     image: motorPartsImg,
     icon: Wrench,
@@ -32,7 +32,7 @@ const products = [
 ];
 
 const features = [
-  "All types of motor parts available",
+  "All types of truck motor parts available",
   "Wide product range with genuine spares",
   "Reliable and trusted local automobile shop",
   "Competitive pricing guaranteed",
@@ -51,7 +51,7 @@ const ProductsSection = () => {
             Quality Auto Parts & Spares
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto text-lg">
-            From motor parts to engine oils, we stock everything you need to keep your vehicle running smoothly.
+            From truck motor parts to engine oils, we stock everything you need to keep your vehicle running smoothly.
           </p>
         </div>
 

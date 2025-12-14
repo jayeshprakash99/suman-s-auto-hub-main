@@ -8,7 +8,7 @@ import batteriesImg from "@/assets/batteries.jpg";
 
 const galleryImages = [
   { src: heroBg, alt: "Shop Interior - Wide Range of Auto Parts" },
-  { src: motorPartsImg, alt: "Motor Parts Collection" },
+  { src: motorPartsImg, alt: "truck motor parts Collection" },
   { src: engineOilImg, alt: "Engine Oils Display" },
   { src: sparePartsImg, alt: "Spare Parts & Filters" },
   { src: batteriesImg, alt: "Batteries & Accessories" },

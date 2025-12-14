@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import heroBg from "@/assets/hero-bg.jpg";
 
 const highlights = [
-  { icon: Wrench, label: "Motor Parts" },
+  { icon: Wrench, label: "truck motor parts" },
   { icon: Droplets, label: "Engine Oil" },
   { icon: Car, label: "Vehicle Accessories" },
   { icon: Zap, label: "Fast Service" },
@@ -46,7 +46,7 @@ const HeroSection = () => {
 
           {/* Tagline */}
           <p className="text-lg md:text-xl text-foreground/80 mb-8 max-w-xl animate-fade-up" style={{ animationDelay: "0.2s" }}>
-            Your one-stop solution for all motor parts, spares & engine oils.
+            Your one-stop solution for all truck motor parts, spares & engine oils.
             Quality products at competitive prices.
           </p>
 
@@ -72,14 +72,14 @@ const HeroSection = () => {
               </a>
             </Button>
             <Button variant="accent" size="lg" asChild>
-              <a href="tel:+919876543210">
+              <a href="tel:+917033626560">
                 <Phone className="w-5 h-5" />
                 Call Now
               </a>
             </Button>
             <Button variant="glass" size="lg" asChild>
               <a
-                href="https://maps.google.com/?q=Hiramani+Fuels+Ranchi+Ring+Road"
+                href="https://maps.app.goo.gl/GCjNVvpZXLKvbSci8"
                 target="_blank"
                 rel="noopener noreferrer"
               >

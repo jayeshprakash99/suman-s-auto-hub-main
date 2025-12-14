@@ -12,21 +12,21 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Suman Automobiles | Motor Parts & Engine Oil Shop in Ranchi</title>
+        <title>Suman Automobiles | truck motor parts & Engine Oil Shop in Ranchi</title>
         <meta
           name="description"
-          content="Suman Automobiles - Your trusted automobile spare parts shop in Ranchi. Quality motor parts, engine oils, lubricants, and vehicle accessories. ⭐ 4.7 Rating."
+          content="Suman Automobiles - Your trusted automobile spare parts shop in Ranchi. Quality truck motor parts, engine oils, lubricants, and vehicle accessories. ⭐ 4.7 Rating."
         />
         <meta
           name="keywords"
-          content="motor parts Ranchi, automobile spares Ranchi, engine oil shop Ranchi, Suman Automobiles, car parts Ranchi, bike parts Ranchi, lubricants Ranchi"
+          content="truck motor parts Ranchi, automobile spares Ranchi, engine oil shop Ranchi, Suman Automobiles, car parts Ranchi, bike parts Ranchi, lubricants Ranchi"
         />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://sumanautomobiles.com" />
         
         {/* Open Graph */}
-        <meta property="og:title" content="Suman Automobiles | Motor Parts & Engine Oil Shop in Ranchi" />
-        <meta property="og:description" content="Your one-stop solution for motor parts, spares & engine oils in Ranchi. Trusted by 1000+ customers." />
+        <meta property="og:title" content="Suman Automobiles | truck motor parts & Engine Oil Shop in Ranchi" />
+        <meta property="og:description" content="Your one-stop solution for truck motor parts, spares & engine oils in Ranchi. Trusted by 1000+ customers." />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_IN" />
         
@@ -40,7 +40,7 @@ const Index = () => {
             "image": "https://sumanautomobiles.com/shop-image.jpg",
             "@id": "https://sumanautomobiles.com",
             "url": "https://sumanautomobiles.com",
-            "telephone": "+91-9876543210",
+            "telephone": "+91-7033626560",
             "address": {
               "@type": "PostalAddress",
               "streetAddress": "Hiramani Fuels, Ranchi Ring Road, Near Dhoni's Farm House",

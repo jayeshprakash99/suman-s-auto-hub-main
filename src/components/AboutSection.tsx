@@ -37,7 +37,7 @@ const AboutSection = () => {
               Your Trusted Partner for Auto Parts
             </h2>
             <p className="text-muted-foreground text-lg mb-6 leading-relaxed">
-              Suman Automobiles is a trusted motor parts and spare parts shop located in Ranchi, 
+              Suman Automobiles is a trusted truck motor parts and spare parts shop located in Ranchi, 
               known for its wide range of genuine automobile spares, lubricants, and accessories.
             </p>
             <p className="text-muted-foreground text-lg mb-8 leading-relaxed">
